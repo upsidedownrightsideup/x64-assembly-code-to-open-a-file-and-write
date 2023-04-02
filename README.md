@@ -41,3 +41,6 @@ This command links the object file example.o to generate an executable named exa
 Note that the specific options and commands may differ depending on the system and platform you are using, and the specific requirements of your program. For example, if your program uses external libraries, you may need to specify their paths and link them during the linking step.
 
 Additionally, if you need to generate a 32-bit executable, you can use the -f elf32 option during assembly and specify the appropriate architecture and machine type during the linking step.
+
+If you find my project useful, consider supporting its development by making a donation to the following Bitcoin address: bc1q6lkwn3aqe97r5am6ntu5rugd587g363y6e2e3eshr3hp2706ungqzuuw22. Your contribution will help me continue to improve and maintain this project. Thank you for your support!
+![image](https://user-images.githubusercontent.com/128254448/229370772-8af45469-650f-4444-b289-dc16aa7a7377.png)
